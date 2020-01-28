@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585875529064",
+    "firebase_url": "https://mobilepowsi.firebaseio.com",
+    "project_id": "mobilepowsi",
+    "storage_bucket": "mobilepowsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585875529064:android:13da244f420fdb26124add",
+        "android_client_info": {
+          "package_name": "com.powsikan.mobilepowsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585875529064-rjrp6urtjgvie9bd4se9tq7ndq4nloba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.powsikan.mobilepowsi",
+            "certificate_hash": "6b2f8d8490b82ef66e5d2af14cb8bec61cb01a8f"
+          }
+        },
+        {
+          "client_id": "585875529064-74m2capp0skjh6ng4b838bstml0vrpe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvTcoXkjL1pY9vlV6KIoViy65ju_nAgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585875529064-74m2capp0skjh6ng4b838bstml0vrpe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
