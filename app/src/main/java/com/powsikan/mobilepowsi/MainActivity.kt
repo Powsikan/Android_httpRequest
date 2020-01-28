@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
             if (i==5){
                 var intent= Intent(this,SecondActivity::class.java)
                 startActivity(intent)
+                finish()
             }
         }
     }

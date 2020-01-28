@@ -20,6 +20,14 @@
         android:layout_height="wrap_content"
         android:text="I am a Button"
         android:textColor="@android:color/holo_red_dark"/>
+    <Button
+        android:id="@+id/button_two"
+        android:layout_below="@+id/button_one"
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I am a back Button"
+        android:textColor="@android:color/holo_red_dark"/>
 
 
 </RelativeLayout>

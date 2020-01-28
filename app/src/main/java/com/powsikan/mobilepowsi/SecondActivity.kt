@@ -25,6 +25,14 @@ class SecondActivity : AppCompatActivity() {
 
       textView=findViewById(R.id.text_one)
 
+        var backButton:Button=findViewById(R.id.button_two)
+        backButton.setOnClickListener {
+            var intent=Intent(this,MainActivity::class.java)
+            startActivity(intent)
+            finish()
+
+        }
+
 
     }
 
